@@ -2,7 +2,7 @@
 
 Esse Estudo foi efetuado para que se possa verificar os perfis de colaboradores que tem maior predisposição a sair da empresa em um período determinado.
 
-Este notebook que segue contém a modelagem e as análises efetuadas em cima do banco de dados.
+Este notebook que segue contém a modelagem e as análises efetuadas.
 
 [Analise Turnover Colaboradores - Aplicação de Modelo Preditivo](/Analise_Turnover.ipynb)
 
