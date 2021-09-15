@@ -4,7 +4,7 @@ Esse Estudo foi efetuado para que se possa verificar os perfis de colaboradores 
 
 Este notebook que segue contém a modelagem e as análises efetuadas em cima do banco de dados.
 
-[Analise_Turnover.ipynb](/Analise_Turnover.ipynb)
+[Analise_Turnover_Colaboradores](/Analise_Turnover.ipynb)
 
 Este arquivo contém o modelo já exportado e treinado, o modelo escolhido foi um XGboostClassifier.
 
