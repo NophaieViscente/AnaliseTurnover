@@ -1,5 +1,15 @@
-# AnaliseTurnover
+# Analise_Turnover_Colaboradores
 
-Estudo efetuado para a análise de Turnover de colaboradores.
+Esse Estudo foi efetuado para que se possa verificar os perfis de colaboradores que tem maior predisposição a sair da empresa em um período determinado.
 
-Efetuado deploy via Streamlit, usando Floresta randômica.
+Este notebook que segue contém a modelagem e as análises efetuadas em cima do banco de dados.
+
+[Analise_Turnover.ipynb](/Analise_Turnover.ipynb)
+
+Este arquivo contém o modelo já exportado e treinado, o modelo escolhido foi um XGboostClassifier.
+
+[modeloXGB_binary.pkl](/modeloXGB_binary.pkl)
+
+Neste arquivo python, encontra se o app web, criado em streamlit para a testagem do modelo em produção.
+
+[app.py](/app.py)
